@@ -1,0 +1,312 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CCU7._0Test.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LocalIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.0.100</Value>
+    </Setting>
+    <Setting Name="LocalPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20001</Value>
+    </Setting>
+    <Setting Name="RemoteIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.0.10</Value>
+    </Setting>
+    <Setting Name="RemotePort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10008</Value>
+    </Setting>
+    <Setting Name="uart1Mode" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart1SendInt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart1SendCnt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart1MsgForm" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart1SendMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">This is a uart[1] test message used to test the stability of communication.</Value>
+    </Setting>
+    <Setting Name="uart2Mode" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart2SendInt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart2SendCnt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart2MsgForm" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart2SendMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">This is a uart[2] test message used to test the stability of communication.</Value>
+    </Setting>
+    <Setting Name="uart3Mode" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart3SendInt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart3SendCnt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart3MsgForm" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart3SendMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">This is a uart[3] test message used to test the stability of communication.</Value>
+    </Setting>
+    <Setting Name="uart4Mode" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart4SendInt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart4SendCnt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart4MsgForm" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart4SendMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">This is a uart[4] test message used to test the stability of communication.</Value>
+    </Setting>
+    <Setting Name="uart5Mode" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart5SendInt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart5SendCnt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart5MsgForm" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart5SendMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">This is a uart[5] test message used to test the stability of communication.</Value>
+    </Setting>
+    <Setting Name="uart6Mode" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart6SendInt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart6SendCnt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart6MsgForm" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart6SendMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">This is a uart[6] test message used to test the stability of communication.</Value>
+    </Setting>
+    <Setting Name="uart7Mode" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart7SendInt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart7SendCnt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart7MsgForm" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart7SendMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">This is a uart[7] test message used to test the stability of communication.</Value>
+    </Setting>
+    <Setting Name="uart8Mode" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart8SendInt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart8SendCnt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart8MsgForm" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart8SendMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">This is a uart[8] test message used to test the stability of communication.</Value>
+    </Setting>
+    <Setting Name="can1Mode" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can1FMask" Type="System.String" Scope="User">
+      <Value Profile="(Default)">000000FF</Value>
+    </Setting>
+    <Setting Name="can1FID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00000001</Value>
+    </Setting>
+    <Setting Name="can1SendInt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can1SendCnt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can1CanID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00000001</Value>
+    </Setting>
+    <Setting Name="can1SendMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0100000012345678</Value>
+    </Setting>
+    <Setting Name="can2Mode" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can2FMask" Type="System.String" Scope="User">
+      <Value Profile="(Default)">000000FF</Value>
+    </Setting>
+    <Setting Name="can2FID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00000002</Value>
+    </Setting>
+    <Setting Name="can2SendInt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can2SendCnt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can2CanID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00000002</Value>
+    </Setting>
+    <Setting Name="can2SendMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0200000012345678</Value>
+    </Setting>
+    <Setting Name="can3Mode" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can3FMask" Type="System.String" Scope="User">
+      <Value Profile="(Default)">000000FF</Value>
+    </Setting>
+    <Setting Name="can3FID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00000003</Value>
+    </Setting>
+    <Setting Name="can3SendInt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can3SendCnt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can3CanID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00000003</Value>
+    </Setting>
+    <Setting Name="can3SendMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0300000012345678</Value>
+    </Setting>
+    <Setting Name="can4Mode" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can4FMask" Type="System.String" Scope="User">
+      <Value Profile="(Default)">000000FF</Value>
+    </Setting>
+    <Setting Name="can4FID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00000004</Value>
+    </Setting>
+    <Setting Name="can4SendInt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can4SendCnt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can4CanID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00000004</Value>
+    </Setting>
+    <Setting Name="can4SendMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0400000012345678</Value>
+    </Setting>
+    <Setting Name="can5Mode" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can5FMask" Type="System.String" Scope="User">
+      <Value Profile="(Default)">000000FF</Value>
+    </Setting>
+    <Setting Name="can5FID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00000005</Value>
+    </Setting>
+    <Setting Name="can5SendInt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can5SendCnt" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can5CanID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00000005</Value>
+    </Setting>
+    <Setting Name="can5SendMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0500000012345678</Value>
+    </Setting>
+    <Setting Name="ethTestPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30001</Value>
+    </Setting>
+    <Setting Name="eth1Mode" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="eth1ThreadNums" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="eth1TestTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="eth2Mode" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="eth2ThreadNums" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="eth2TestTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="eth3Mode" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="eth3ThreadNums" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="eth3TestTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="uart1MsgFormType" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart2MsgFormType" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart3MsgFormType" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart4MsgFormType" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart5MsgFormType" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart6MsgFormType" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart7MsgFormType" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="uart8MsgFormType" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can1Type" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can2Type" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can3Type" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can4Type" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="can5Type" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
